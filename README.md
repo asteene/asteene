@@ -9,7 +9,7 @@
 **Umbraco**
 
 ### 💻 Programming Languages & Technologies:
-- Java, C, Python, HTML/CSS
+- Java, C, Python (Flask), HTML/CSS
 
 ### 📚 About Me:
 I'm currently in my final year of studying Computer Science at UNC Charlotte, where I've honed my skills in both high-level and low-level programming languages. 
