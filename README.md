@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**asteene/asteene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hello, I'm Alec Steene!
 
-Here are some ideas to get you started:
+**Senior Computer Science Student**  
+**University of North Carolina at Charlotte (UNC Charlotte)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Business Development & Growth**
+**Umbraco**
+
+### 💻 Programming Languages & Technologies:
+- Java, C, Python, HTML/CSS
+
+### 📚 About Me:
+I'm currently in my final year of studying Computer Science at UNC Charlotte, where I've honed my skills in both high-level and low-level programming languages. 
+
+### 🌱 What I'm Learning:
+- ASP.NET MVC
+- Umbraco CMS
+
+### 🔗 Connect with Me:
+- **LinkedIn**: https://www.linkedin.com/in/alec-steene/
